@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Plant Manager" title="Plant Manager" src="https://github.com/solrachix/podcastr/blob/master/.github/logo.png?raw=true" />
+  <img alt="Plant Manager" title="Plant Manager" src="https://github.com/solrachix/plantManager/blob/master/.github/logo.png?raw=true" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="Plant Manager" src="https://github.com/solrachix/podcastr/blob/master/.github/capa.png?raw=true" width="100%">
+  <img alt="Plant Manager" src="https://github.com/solrachix/plantManager/blob/master/.github/capa.png?raw=true" width="100%">
 </p>
 
 ## ✨ Tecnologias
