@@ -1,0 +1,7 @@
+{
+  "project_name": "PlantManager",
+  "type": "mobile",
+  "template_url": "./.github/capa.png",
+  "logo_url": "./.github/logo.png",
+  "web": "./"
+}
