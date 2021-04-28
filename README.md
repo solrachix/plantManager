@@ -3,15 +3,15 @@
 </h1>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=32B768&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=32B768&labelColor=000000" />
 
- <img src="https://img.shields.io/static/v1?label=NLW&message=05&color=32B768&labelColor=000000" alt="NLW 05" />
+  <img src="https://img.shields.io/static/v1?label=NLW&message=05&color=32B768&labelColor=000000" alt="NLW 05" />
 </p>
 
-<br>
+<br />
 
 <p align="center">
-  <img alt="Plant Manager" src="https://github.com/solrachix/plantManager/blob/master/.github/capa.png?raw=true" width="100%">
+  <img alt="Plant Manager" src="https://github.com/solrachix/plantManager/blob/master/.github/capa.png?raw=true" width="100%" />
 </p>
 
 ## ✨ Tecnologias
